@@ -22,4 +22,4 @@ exit
 # Author
 Shaik Saniya Haseen <br>
 2nd Year, B.Tech CSE <br>
-LinkedIn : https://www.linkedin.com/in/saniya-haseen-shaik-6070a4291?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
+LinkedIn : https://www.linkedin.com/in/saniya-haseen-shaik
